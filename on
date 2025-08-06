@@ -1,0 +1,3 @@
+[33mb76f563[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Optimize for Vercel deployment: add vercel.json, update vite config, and improve build settings
+[33m9bf9e6a[m Add Vercel Analytics for visitor tracking and remove meeting section from contact
+[33md40c884[m Initial commit: Portfolio website with enhanced UI and contact form
