@@ -109,7 +109,7 @@ const ProjectsSection = () => {
               <Card
                 key={index}
                 className="overflow-hidden shadow-card hover:shadow-elegant transition-smooth group cursor-pointer flex flex-col items-center text-center py-8 hover:scale-[1.03] border-2 border-transparent hover:border-primary/40"
-                onClick={() => window.open(`/work/${work.slug}`, '_blank')}
+                onClick={() => navigate(`/work/${work.slug}`)}
               >
                 <img src={work.image} alt={work.title} className="w-full h-40 object-cover mb-4 rounded-t-lg" />
                 <Badge variant="secondary" className="text-xs mb-4 bg-white/90 text-foreground px-3 py-1 font-semibold tracking-wide uppercase">
