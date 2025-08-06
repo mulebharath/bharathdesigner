@@ -42,14 +42,6 @@ const ContactSection = () => {
       contact: "+91 7780391081",
       action: "Call Now",
       href: "tel:+917780391081"
-    },
-    {
-      icon: <Calendar className="h-6 w-6" />,
-      title: "Meeting",
-      description: "Book a consultation session",
-      contact: "30-60 min sessions",
-      action: "Book Meeting",
-      href: "mailto:mulebharath16@gmail.com?subject=Meeting Request"
     }
   ];
 
